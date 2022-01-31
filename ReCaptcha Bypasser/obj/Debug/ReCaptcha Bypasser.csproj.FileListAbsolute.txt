@@ -1,0 +1,23 @@
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.exe.config
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.exe
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.pdb
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\Guna.UI2.dll
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csprojAssemblyReference.cache
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha_Bypasser.Main.resources
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha_Bypasser.Properties.Resources.resources
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.GenerateResource.cache
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.CopyComplete
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.exe
+E:\Visual Studio\Source\repos\ReCaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.pdb
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.exe.config
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.exe
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\ReCaptcha Bypasser.pdb
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\bin\Debug\Guna.UI2.dll
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.AssemblyReference.cache
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha_Bypasser.Main.resources
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha_Bypasser.Properties.Resources.resources
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.GenerateResource.cache
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.csproj.CoreCompileInputs.cache
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.exe
+F:\Recaptcha Bypasser\ReCaptcha Bypasser\obj\Debug\ReCaptcha Bypasser.pdb
